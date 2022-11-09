@@ -30,6 +30,6 @@ def mailSender():
     pass
 
 
-next_email = Email("svenerikmandmaa@gmail.com", "test", "testtesttest", "false")
+next_email = Email("xxx@xxx.xxx", "test", "testtesttest", "false")
 
 print (next_email.attachment)
